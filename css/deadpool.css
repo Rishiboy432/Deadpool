@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+	font-family: Comic Sans, Cambria, Arial;
+	font-size: 20px;
+	line-height: 25px;
+	color: #f34607;
+}
+
+header{
+	background-color: #d42424;
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 1px;
+}
+
+h1, h2{
+	font-family: 'Anton', sans-serif;
+}
+
+header h1{
+	font-size: 60px;
+	color: #000000;
+
+}
+
+header img {
+	border-radius: 250px;
+	width: 500px;
+	border: 10px solid;
+	border-color: #000000;	
+}
+
+body {
+min-height: 100%;
+background-image: url(https://papers.co/wallpaper/papers.co-ap50-deadpool-art-logo-hero-4-wallpaper.jpg);
+}
+
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+main img{
+	max-width: 100%;
+	border: 10px solid #f34607;
+	
+}
+
+
+h2{
+	font-size: 30px;
+	margin: 35px 0 10px;
+	color: white;
+}
+
+a{
+  color: #f34607;
+}
+
+a:hover{
+	color: #483a94;
+}
+
+footer{
+	background-color: #d42424;
+	text-align: center;
+	color: white;
+	padding: 35px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a:hover{
+	color: white;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+	font-size: 15px;
+}
